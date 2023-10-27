@@ -1,5 +1,5 @@
 <a href="#" target="_blank">
-  <img src="svg/Junko.svg" width="1200" alt="Junko-Houtarou" />
+  <img src="svg/Junko.svg" width="900" alt="Junko-Houtarou" />
 </a>
 
 <h2 align="center">Technologies and Tools</h2>
