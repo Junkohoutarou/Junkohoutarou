@@ -1,0 +1,34 @@
+<svg fill="none" viewBox="0 0 846 150" width="846" height="150" xmlns="http://www.w3.org/2000/svg">
+	<foreignObject width="100%" height="100%">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<style>
+				.container {
+					font-family: system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji';
+					display: flex;
+					flex-direction: column;
+					align-items: center;
+					justify-content: center;
+					margin: 0;
+					width: 100%;
+					height: 150px;
+         		    background-color: #20232A;
+					border-radius: 10px;
+					color: white;
+          			line-height: 1.6;
+				}
+        .quotes-eng .quotes-vi {
+          font-size: 18px;
+        }
+        .Junko-signature {
+          font-size: 16px;
+        }
+			</style>
+
+			<div class="container">
+        <div class="quotes-eng">"If you want something you never had, you have to do something you've never done."</div>
+        <div class="quotes-vi">"Nếu muốn có những thứ chưa từng có, hãy làm những điều chưa từng làm.</div>
+        <div class="Junko-signature">-Junko Houtarou-</div>
+      </div>
+		</div>
+	</foreignObject>
+</svg>
