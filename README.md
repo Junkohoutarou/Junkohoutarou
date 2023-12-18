@@ -19,6 +19,8 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Recoil-282C34?logo=recoil&logoColor=3578E5" alt="Recoil logo" title="Recoil" height="30" /></span>
 &nbsp;
+<span><img src="https://img.shields.io/badge/Axios-282C34?logo=axios&logoColor=3578E5" alt="Axios logo" title="Axios" height="30" /></span>
+&nbsp;
 <span><img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=00F200" alt="Node.js logo" title="Node.js" height="30" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Vue.js-282C34?logo=vuedotjs&logoColor=4FC08D" alt="Vue.js logo" title="Vue.js" height="30" /></span>
