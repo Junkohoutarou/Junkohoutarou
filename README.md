@@ -14,7 +14,10 @@
 <span><img src="https://img.shields.io/badge/C++-282C34?logo=cplusplus&logoColor=fff" alt="C++ logo" title="C++" height="30" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Python-282C34?logo=python&logoColor=3776AB" alt="Python logo" title="Python" height="30" /></span>
+&nbsp;
 <span><img src="https://img.shields.io/badge/ReactJS-282C34?logo=react&logoColor=61DAFB" alt="ReactJS logo" title="ReactJS" height="30" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Recoil-282C34?logo=recoil&logoColor=3578E5" alt="Recoil logo" title="Recoil" height="30" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=00F200" alt="Node.js logo" title="Node.js" height="30" /></span>
 &nbsp;
