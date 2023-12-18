@@ -32,7 +32,7 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="30" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Amazon-282C34?logo=amazon&logoColor=FF2D20" alt="amazonaws logo" title="AWS" height="30" /></span>
+<span><img src="https://img.shields.io/badge/Amazon-282C34?logo=amazon&logoColor=232F3E" alt="Amazon logo" title="AWS" height="30" /></span>
 <span><img src="https://img.shields.io/badge/Laravel-282C34?logo=laravel&logoColor=FF2D20" alt="Laravel logo" title="Laravel" height="30" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/CodePen-282C34?logo=codepen&logoColor=fff" alt="CodePen logo" title="CodePen" height="30" /></span>
