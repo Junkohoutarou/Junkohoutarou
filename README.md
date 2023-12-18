@@ -29,8 +29,6 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/MySQL-282C34?logo=mysql&logoColor=4479A1" alt="MySQL logo" title="MySQL" height="30" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Slack-282C34?logo=slack&logoColor=FBBC04" alt="Slack logo" title="Slack" height="30" /></span>
-&nbsp;
 <span><img src="https://img.shields.io/badge/Sass-282C34?logo=sass&logoColor=CC6699" alt="SASS logo" title="SASS" height="30" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="30" /></span>
@@ -46,6 +44,8 @@
 <span><img src="https://img.shields.io/badge/Jupyter-282C34?logo=jupyter&logoColor=F37626" alt="Jupyter logo" title="Jupyter" height="30" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="30" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Slack-282C34?logo=slack&logoColor=FBBC04" alt="Slack logo" title="Slack" height="30" /></span>
 &nbsp;
 <br>
 <h2 align="center"> Where to find me </h2>
