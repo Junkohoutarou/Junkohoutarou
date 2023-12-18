@@ -32,11 +32,14 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="30" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/AWS-282C34?logo=amazonaws&logoColor=FF9900" alt="AWS logo" title="AWS" height="30" /></span>
+<span><img src="https://img.shields.io/badge/Amazon-282C34?logo=amazonaws&logoColor=FF9900" alt="AWS logo" title="AWS" height="30" /></span>
+&nbsp;
 <span><img src="https://img.shields.io/badge/Laravel-282C34?logo=laravel&logoColor=FF2D20" alt="Laravel logo" title="Laravel" height="30" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/CodePen-282C34?logo=codepen&logoColor=fff" alt="CodePen logo" title="CodePen" height="30" /></span>
+&nbsp;
 <span><img src="https://img.shields.io/badge/Canva-282C34?logo=canva&logoColor=00C4CC" alt="Canva logo" title="Canva" height="30" /></span>
+&nbsp;
 <span><img src="https://img.shields.io/badge/Jupyter-282C34?logo=jupyter&logoColor=F37626" alt="Jupyter logo" title="Jupyter" height="30" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="30" /></span>
