@@ -31,8 +31,6 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Sass-282C34?logo=sass&logoColor=CC6699" alt="SASS logo" title="SASS" height="30" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/MICROSOFT SQL SERVER-282C34?logo=microsoftsqlserver&logoColor=CC2927" alt="MICROSOFT SQL SERVER logo" title="MICROSOFT SQL SERVER" height="30" /></span>
-&nbsp;
 <span><img src="https://img.shields.io/badge/MySQL-282C34?logo=mysql&logoColor=4479A1" alt="MySQL logo" title="MySQL" height="30" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="30" /></span>
@@ -42,6 +40,8 @@
 <span><img src="https://img.shields.io/badge/Laravel-282C34?logo=laravel&logoColor=FF2D20" alt="Laravel logo" title="Laravel" height="30" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/CodePen-282C34?logo=codepen&logoColor=fff" alt="CodePen logo" title="CodePen" height="30" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/MICROSOFT SQL SERVER-282C34?logo=microsoftsqlserver&logoColor=CC2927" alt="MICROSOFT SQL SERVER logo" title="MICROSOFT SQL SERVER" height="30" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Canva-282C34?logo=canva&logoColor=00C4CC" alt="Canva logo" title="Canva" height="30" /></span>
 &nbsp;
