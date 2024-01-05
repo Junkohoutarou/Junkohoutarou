@@ -69,7 +69,6 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white"
 <br>
-
 <h2 align="center"> GitHub Stats </h2>
 <div align="center">
   
