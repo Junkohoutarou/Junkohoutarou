@@ -52,7 +52,7 @@
 <span><img src="https://img.shields.io/badge/Slack-282C34?logo=slack&logoColor=FBBC04" alt="Slack logo" title="Slack" height="30" /></span>
 &nbsp;
 <br>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=junkohoutarou)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=junkohoutarou)](https://github.com/Junkohoutarou/github-readme-stats)
 <h2 align="center"> Where to find me </h2>
 <br>
 <!-- https://icons8.com -->
