@@ -23,8 +23,7 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=00F200" alt="Node.js logo" title="Node.js" height="30" /></span>
 &nbsp;
-
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+<span><img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" alt="NPM logo" title="NPM" height="30" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Vue.js-282C34?logo=vuedotjs&logoColor=4FC08D" alt="Vue.js logo" title="Vue.js" height="30" /></span>
 &nbsp;
