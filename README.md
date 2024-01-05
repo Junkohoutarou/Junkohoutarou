@@ -59,28 +59,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Junkohoutarou&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
-<h2 align="center"> Where to find me </h2>
-<br>
-<!-- https://icons8.com -->
-<div align="center">
-  <a href="https://www.facebook.com/JunkoHoutarou" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="Junko-facebook" />
-  </a>
-  <a href="https://www.instagram.com/junko.houtarou/?utm_source=qr&igshid=MzNlNGNkZWQ4Mg%3D%3D" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="Junko-instagram" />
-  </a>
-  <a href="mailto:phuhaon934@gmail.com" target="top">
-    <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="Junko-email" />
-  </a>
-</div>
-
-<br>
-<br>
-<h2 align="center">📑 My Favorites Quote 📑</h2>
-<br>
-<a href="#" target="_blank">
-  <img src="svg/Junko-quotes.svg" width="846" height="150" alt="Junko-Houtarou" />
-</a>
 ---
 [![](https://visitcount.itsvg.in/api?id=Junkohoutarou&icon=0&color=0)](https://visitcount.itsvg.in)
 
