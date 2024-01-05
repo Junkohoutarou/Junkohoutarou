@@ -53,6 +53,8 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Slack-282C34?logo=slack&logoColor=FBBC04" alt="Slack logo" title="Slack" height="30" /></span>
 &nbsp;
+
+![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 <br>
 
 <h2 align="center"> GitHub Stats </h2>
