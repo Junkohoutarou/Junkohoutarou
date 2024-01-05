@@ -53,6 +53,12 @@
 &nbsp;
 <br>
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Junkohoutarou&theme=merko&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Junkohoutarou&theme=merko&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Junkohoutarou&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+
 <h2 align="center"> Where to find me </h2>
 <br>
 <!-- https://icons8.com -->
@@ -75,12 +81,6 @@
 <a href="#" target="_blank">
   <img src="svg/Junko-quotes.svg" width="846" height="150" alt="Junko-Houtarou" />
 </a>
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Junkohoutarou&theme=merko&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Junkohoutarou&theme=merko&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Junkohoutarou&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=Junkohoutarou&icon=0&color=0)](https://visitcount.itsvg.in)
 
