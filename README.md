@@ -100,7 +100,6 @@
 <a href="#" target="_blank">
   <img src="svg/Junko-quotes.svg" width="846" height="150" alt="Junko-Houtarou" />
 </a>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=Junkohoutarou&icon=0&color=0)](https://visitcount.itsvg.in)
 
