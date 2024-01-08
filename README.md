@@ -77,7 +77,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Junkohoutarou&theme=solarized-light&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 </div>
-
 <h2 align="center"> Where to find me </h2>
 <br>
 <!-- https://icons8.com -->
