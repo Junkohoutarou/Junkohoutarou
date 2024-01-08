@@ -87,7 +87,7 @@
   <a href="https://www.instagram.com/junko.houtarou/?utm_source=qr&igshid=MzNlNGNkZWQ4Mg%3D%3D" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="Junko-instagram" />
   </a>
-  <a href="mailto:phuhaon934@gmail.com" target="top">
+  <a href="mailto:cuongluu952@gmail.com" target="top">
     <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="Junko-email" />
   </a>
 </div>
