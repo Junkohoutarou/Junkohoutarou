@@ -67,7 +67,7 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white"
+<span><img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" /></span>
 <br>
 <h2 align="center"> GitHub Stats </h2>
 <div align="center">
