@@ -93,7 +93,6 @@
   </a>
 </div>
 
-
 <h2 align="center">📑 My Favorites Quote 📑</h2>
 <br>
 <a href="#" target="_blank">
