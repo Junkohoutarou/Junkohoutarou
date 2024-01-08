@@ -93,7 +93,7 @@
   </a>
 </div>
 
-<br>
+
 <br>
 <h2 align="center">📑 My Favorites Quote 📑</h2>
 <br>
