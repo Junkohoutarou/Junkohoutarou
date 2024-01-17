@@ -11,7 +11,6 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/C++-282C34?logo=cplusplus&logoColor=fff" alt="C++ logo" title="C++" height="30" /></span>
 &nbsp;
-
 <span><img src="https://img.shields.io/badge/Python-282C34?logo=python&logoColor=3776AB" alt="Python logo" title="Python" height="30" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/ReactJS-282C34?logo=react&logoColor=61DAFB" alt="ReactJS logo" title="ReactJS" height="30" /></span>
