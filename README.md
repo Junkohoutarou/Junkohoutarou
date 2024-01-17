@@ -89,7 +89,6 @@
     <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="Junko-email" />
   </a>
 </div>
-
 <h2 align="center">📑 My Favorites Quote 📑</h2>
 
 <a href="#" target="_blank">
