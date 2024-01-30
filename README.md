@@ -96,5 +96,5 @@
 </a>
 
 ---
-![](https://visitcount.itsvg.in/api?id=Junkohoutarou&icon=0&color=auto)
+![](https://visitcount.itsvg.in/api?id=Junkohoutarou&icon=0&color=random)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
