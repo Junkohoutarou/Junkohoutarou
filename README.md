@@ -34,7 +34,7 @@
 <span><img src="https://img.shields.io/badge/Amazon-282C34?logo=amazonaws&logoColor=FF9900" alt="AWS logo" title="AWS" height="30" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Postman-282C34?logo=postman&logoColor=FF6C37" alt="Postman logo" title="postman" height="30" /></span>
-&nbsp;#673DE6
+&nbsp;
 <span><img src="https://img.shields.io/badge/Postman-282C34?logo=postman&logoColor=FF6C37" alt="Postman logo" title="postman" height="30" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Wordpress-282C34?logo=wordpress&logoColor=21759B" alt="Wordpress" title="Wordpress" height="30" /></span>
