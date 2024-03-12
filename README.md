@@ -35,6 +35,8 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Postman-282C34?logo=postman&logoColor=FF6C37" alt="Postman logo" title="postman" height="30" /></span>
 &nbsp;
+<span><img src="https://img.shields.io/badge/wordpress-282C34?logo=wordpress&logoColor=21759B" alt="Wordpress" title="Wordpress" height="30" /></span>
+&nbsp;
 <span><img src="https://img.shields.io/badge/CodePen-282C34?logo=codepen&logoColor=fff" alt="CodePen logo" title="CodePen" height="30" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/MICROSOFT SQL SERVER-282C34?logo=microsoftsqlserver&logoColor=CC2927" alt="MICROSOFT SQL SERVER logo" title="MICROSOFT SQL SERVER" height="30" /></span>
