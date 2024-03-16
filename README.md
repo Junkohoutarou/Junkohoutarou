@@ -102,6 +102,6 @@
 </a>
 
 ---
-![](https://visitcount.itsvg.in/api?id=Junkohoutarou&icon=0&color=10
+![](https://visitcount.itsvg.in/api?id=Junkohoutarou&icon=0&color=1
 )
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
