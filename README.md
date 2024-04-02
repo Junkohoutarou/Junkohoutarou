@@ -1,7 +1,7 @@
 <a href="#" target="_blank">
   <img src="svg/Junko.svg" width="900" alt="Junko-Houtarou" />
 </a> 
-dfjdsbfcjfsdb
+dfjdsbfcjfsd
 
 <h2 align="center">Technologies and Tools</h2>
 <!-- https://simpleicons.org/ -->
